@@ -1,16 +1,13 @@
 body {
     margin: 0;
-    font-family: Georgia, Garamond, sans-serif;
-    background-color: #FFCC00;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../img/bee.jpg);
   }
   
   .topnav {
     overflow: hidden;
     background-color: #CC9933;
-    width: 150px;
-    float: left;
-    border-right: solid 20px #003366;
-    margin: 10px;
+    width: 300px;
   }
   
   .topnav a {
@@ -32,8 +29,3 @@ body {
     text-align: center;
     letter-spacing: 10px;
   }
-
-  h2{
-    font-family: Century, Futura, Verdana, sans-serif;
-  }
-  
